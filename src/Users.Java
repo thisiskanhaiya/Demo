@@ -9,7 +9,7 @@ class Users {
     private String role;    
     private String email;
     private String firstName;
-    private String lastName;
+`    private String lastName;
     private String phone;
     private String address;
     private String city;
